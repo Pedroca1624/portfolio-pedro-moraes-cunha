@@ -1,4 +1,4 @@
-p# Pedro Moraes Cunha
+Pedro Moraes Cunha
 > Estudante de Análise e desenvolvimento de sistema
  
 ---
