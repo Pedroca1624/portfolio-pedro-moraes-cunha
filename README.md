@@ -47,3 +47,4 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de sistema na U
 |SM4 - Engenharia Reversa | Análise de comportamento de LLMs e refinamento iterativo de prompts com Qwen. | [Ver Projeto](https://github.com/Pedroca1624/projeto-engenharia-reversa-) |
 |SM5 - Do Clone ao MVP | Desenvolvimento do Morphly: do conceito ao produto funcional com IA. | [Ver Projeto](https://github.com/Pedroca1624/neumorphismo-pedro) |
 |SM6 - Engenharia de Software (Bubble) | Desenvolvimento do OrcaFlow: Sistema de orçamentos com foco em segurança e banco de dados. | [Ver Projeto](https://github.com/Pedroca1624/projeto-engenharia-prompt-) |
+|SM8 - Composição Musical IA | "Digital Resonance": Produção de um EP de Rock utilizando engenharia de prompt musical. | [Ver Projeto](https://github.com/Pedroca1624/projeto-composicao-musical-) |
