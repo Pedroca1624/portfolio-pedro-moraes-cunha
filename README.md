@@ -42,4 +42,5 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de sistema na U
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 |SM1 - A Corrida do Prompt | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/Pedroca1624/A-corrida-do-Prompt) |
-| SM2 - Laboratório de Classificação Visual | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto](https://github.com/Pedroca1624/projeto-laboratorio-classificacao-) |
+|SM2 - Laboratório de Classificação Visual | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto](https://github.com/Pedroca1624/projeto-laboratorio-classificacao-) |
+|SM3 - Batalha de Modelos (XML) | Benchmarking comparativo entre 7 IAs usando prompts estruturados em XML. | [Ver Projeto](https://github.com/Pedroca1624/projeto-batalha-modelos-engenharia-) |
