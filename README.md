@@ -45,3 +45,4 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de sistema na U
 |SM2 - Laboratório de Classificação Visual | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto](https://github.com/Pedroca1624/projeto-laboratorio-classificacao-) |
 |SM3 - Batalha de Modelos (XML) | Benchmarking comparativo entre 7 IAs usando prompts estruturados em XML. | [Ver Projeto](https://github.com/Pedroca1624/projeto-batalha-modelos-engenharia-) |
 |SM4 - Engenharia Reversa | Análise de comportamento de LLMs e refinamento iterativo de prompts com Qwen. | [Ver Projeto](https://github.com/Pedroca1624/projeto-engenharia-reversa-) |
+| SM5 - Do Clone ao MVP | Desenvolvimento do Morphly: do conceito ao produto funcional com IA. | [Ver Projeto](https://github.com/Pedroca1624/neumorphismo-pedro) |
